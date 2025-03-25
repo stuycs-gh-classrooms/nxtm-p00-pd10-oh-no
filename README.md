@@ -2,8 +2,7 @@
 ## Project 00
 ### NeXTCS
 ### Period: 
-## Name0: YOUR NAME HERE
-## Name1: OTHER NAME HERE (delete this line if you are working solo)
+## Name0: ANTOINE CHEN
 ---
 
 This project will be completed in phases. The first phase will be to work on this document. Use github-flavoured markdown. (For more markdown help [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) )
@@ -26,19 +25,23 @@ All projects will require the following:
 ## Phase 0: Force Selection, Analysis & Plan
 ---------- 
 
-#### Custom Force: NAME OF YOUR FORCE
+#### Custom Force: Orb Collision
 
 ### Forumla
 What is the formula for your force? Including descriptions/definitions for the symbols. (You may include a picture of the formula if it is not easily typed.)
 
-YOUR ANSWER HERE
+![image](https://github.com/user-attachments/assets/f13a2975-744f-4b5c-92e4-217a0731a863)
+
+u1 & u2 as the velocity before collision
+v1 & v2 as the velocity after collision
+m1 & m2 as the mass of the orbs
 
 ### Custom Force
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
-  - YOUR ANSWER HERE
+  - mass and velocity
 
 - Does this force require any new constants, if so what are they and what values will you try initially?
-  - YOUR ANSWER HERE
+  - no, it will use the existing constants
 
 - Does this force require any new information to be added to the `Orb` class? If so, what is it and what data type will you use?
   - YOUR ANSWER HERE
