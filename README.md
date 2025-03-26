@@ -41,13 +41,13 @@ m1 & m2 as the mass of the orbs
   - mass and velocity
 
 - Does this force require any new constants, if so what are they and what values will you try initially?
-  - no, it will use the existing constants
+  - no
 
 - Does this force require any new information to be added to the `Orb` class? If so, what is it and what data type will you use?
-  - YOUR ANSWER HERE
+  - no, this formula only uses velocity and mass for calculation
 
 - Does this force interact with other `Orbs`, or is it applied based on the environment?
-  - YOUR ANSWER HERE
+  - this force will interact with other orbs
 
 - In order to calculate this force, do you need to perform extra intermediary calculations? If so, what?
   - YOUR ANSWER HERE
