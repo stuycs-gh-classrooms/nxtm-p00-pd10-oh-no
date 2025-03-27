@@ -50,7 +50,7 @@ m1 & m2 as the mass of the orbs
   - this force will interact with other orbs
 
 - In order to calculate this force, do you need to perform extra intermediary calculations? If so, what?
-  - YOUR ANSWER HERE
+  - No extra intermediary calculations should be necessary. However, value may have to be stored before executing this force because this force changes velocity instead of acceleration, unlike the current forces we have.
 
 --- 
 
